@@ -1,0 +1,49 @@
+/* Header */
+    
+/* Descuento */
+ .descuento {
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    
+    position: relative;
+    top: 10px;
+    left: 30px;
+
+    
+}
+
+#descuento {
+    background-color: #1CD1B0;
+    height: 38px;
+}
+
+/* titulo */
+h1{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    font-style: normal;
+    color: #000000;
+
+    position: relative;
+    top: 25px;
+    left: 26px;
+
+
+   
+}
+
+#caja-titulo{
+    background-color: #00669F;
+    height: 101px;
+    position: relative;
+    bottom: 35px;
+}
+
+    
